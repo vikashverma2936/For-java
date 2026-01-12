@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arrays",
+            "request": "launch",
+            "mainClass": "Arrays",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "Gcd",
+            "request": "launch",
+            "mainClass": "Gcd",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteLoop",
+            "request": "launch",
+            "mainClass": "InfiniteLoop",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "VotingEligibility",
+            "request": "launch",
+            "mainClass": "VotingEligibility",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "CircumferenceCircle",
+            "request": "launch",
+            "mainClass": "CircumferenceCircle",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "GreaterNumber",
+            "request": "launch",
+            "mainClass": "GreaterNumber",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "sumoddfcn",
+            "request": "launch",
+            "mainClass": "sumoddfcn",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
+            "name": "avgfcn",
+            "request": "launch",
+            "mainClass": "avgfcn",
+            "projectName": "For java_e91ae72c"
+        },
+        {
+            "type": "java",
             "name": "fcn2",
             "request": "launch",
             "mainClass": "fcn2",

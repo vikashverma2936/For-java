@@ -1,10 +1,8 @@
-public class sec {
-    public static void main(String[] args){
+public class Sec {
+    public static void main(String[] args) {
         int a = 25;
         int b = 10;
-        int c = 2 * (a+b);
-
-        System.out.print(c);
-
+        int result = 2 * (a + b);
+        System.out.print(result);
     }
 }
