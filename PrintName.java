@@ -1,6 +1,6 @@
 import java.util.Scanner; // ADDED: To import the Scanner class
 
-public class FCN {
+public class PrintName {
 
     // This is your function
     public static void myName(String name) {

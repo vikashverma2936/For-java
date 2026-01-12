@@ -1,4 +1,4 @@
-public class Sec {
+public class SimpleMath {
     public static void main(String[] args) {
         int a = 25;
         int b = 10;
@@ -6,3 +6,4 @@ public class Sec {
         System.out.print(result);
     }
 }
+

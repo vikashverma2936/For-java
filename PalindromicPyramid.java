@@ -1,4 +1,4 @@
-public class PlndrmPtrn {
+public class PalindromicPyramid {
     public static void main(String[] args) {
         int n = 5;
 
@@ -19,3 +19,4 @@ public class PlndrmPtrn {
         }
     }
 }
+

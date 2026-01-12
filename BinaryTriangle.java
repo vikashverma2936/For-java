@@ -1,4 +1,4 @@
-public class Py {
+public class BinaryTriangle {
     public static void main (String[] args){
         int n = 5;
         

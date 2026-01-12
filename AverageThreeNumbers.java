@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class AvgFcn {
+public class AverageThreeNumbers {
 
     static double avg(int a, int b, int c) {
         // Fixed: Use 3.0 to ensure double division
@@ -19,3 +19,4 @@ public class AvgFcn {
         sc.close();
     }
 }
+

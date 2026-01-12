@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Thr {
+public class ComplexCalculation {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter first number (a): ");
@@ -21,3 +21,4 @@ public class Thr {
         sc.close();
     }
 }
+

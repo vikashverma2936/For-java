@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fcn2 {
+public class SumTwoNumbers {
 
     public static int SumTwo(int a, int b) {
         return a + b;
@@ -43,3 +43,4 @@ public class Fcn2 {
         sc.close();
     }
 }
+

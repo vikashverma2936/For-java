@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Fv {
+public class CompareNumbers {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -21,3 +21,4 @@ public class Fv {
         sc.close();
     }
 }
+
